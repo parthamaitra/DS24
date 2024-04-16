@@ -4,8 +4,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class _005_MaxSumSubArrayTest {
-    private _005_MaxSumSubArray objUnderTest = new _005_MaxSumSubArray();
+class _0005_MaxSumSubArrayTest {
+    private _0005_MaxSumSubArray objUnderTest = new _0005_MaxSumSubArray();
 
     @Test
     public void test() {

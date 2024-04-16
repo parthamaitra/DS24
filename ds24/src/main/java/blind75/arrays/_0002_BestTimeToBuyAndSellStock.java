@@ -1,6 +1,6 @@
 package blind75.arrays;
 
-public class _002_BestTimeToBuyAndSellStock {
+public class _0002_BestTimeToBuyAndSellStock {
     public int maxProfit(int[] prices) {
         int maxProfit = Integer.MIN_VALUE;
         int start = prices[0];

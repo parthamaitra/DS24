@@ -1,6 +1,6 @@
 package blind75.arrays;
 
-public class _006_MaxProductSubarray {
+public class _0006_MaxProductSubarray {
     public int maxProduct(int[] nums) {
         int leftProduct = 1;
         int rightProduct = 1;

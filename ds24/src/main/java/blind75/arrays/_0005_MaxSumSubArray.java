@@ -1,6 +1,6 @@
 package blind75.arrays;
 
-public class _005_MaxSumSubArray {
+public class _0005_MaxSumSubArray {
     public int maxSubArray(int[] nums) {
         int maxSum = Integer.MIN_VALUE;
         int runningSum = 0;

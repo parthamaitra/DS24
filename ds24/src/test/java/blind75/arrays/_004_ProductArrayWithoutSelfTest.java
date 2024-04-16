@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class _004_ProductArrayWithoutSelfTest {
 
-    private _004_ProductArrayWithoutSelf objUnderTest = new _004_ProductArrayWithoutSelf();
+    private _0004_ProductArrayWithoutSelf objUnderTest = new _0004_ProductArrayWithoutSelf();
 
     @Test
     public void test() {

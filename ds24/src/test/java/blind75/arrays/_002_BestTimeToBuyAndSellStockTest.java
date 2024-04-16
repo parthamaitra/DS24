@@ -7,11 +7,11 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class _002_BestTimeToBuyAndSellStockTest {
 
-    private _002_BestTimeToBuyAndSellStock objUnderTest;
+    private _0002_BestTimeToBuyAndSellStock objUnderTest;
 
     @BeforeEach
     public void setup() {
-        objUnderTest = new _002_BestTimeToBuyAndSellStock();
+        objUnderTest = new _0002_BestTimeToBuyAndSellStock();
     }
 
     @Test

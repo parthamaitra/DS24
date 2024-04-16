@@ -1,6 +1,6 @@
 package blind75.arrays;
 
-public class _004_ProductArrayWithoutSelf {
+public class _0004_ProductArrayWithoutSelf {
     public int[] productExceptSelf(int[] nums) {
         int len = nums.length;
         int [] left = new int[len];
